@@ -1,0 +1,26 @@
+<PlaneHTMLConfig>
+	<Instrument>
+		<Name>AS92</Name>
+		<Electric>
+			<And>
+				<Greater>
+					<Simvar name="COM VOLUME:1" unit="Percent"/>
+					<Constant>0</Constant>
+				</Greater>
+				<Simvar name="CIRCUIT AVIONICS ON" unit="Boolean"/>
+			</And>
+		</Electric>
+	</Instrument>
+	<Instrument>
+		<Name>AS21</Name>
+		<Electric>
+			<Simvar name="CIRCUIT AVIONICS ON" unit="Boolean"/>
+		</Electric>
+	</Instrument>
+	<Instrument>
+		<Name>Hourmeter</Name>
+		<Electric>
+			<Simvar name="CIRCUIT GENERAL PANEL ON" unit="Boolean"/>
+		</Electric>
+	</Instrument>
+</PlaneHTMLConfig>
