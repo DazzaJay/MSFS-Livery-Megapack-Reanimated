@@ -1,0 +1,204 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/aircraft.cfg",
+      "size": 15018,
+      "date": 132323595900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400131548657840
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_DECALS_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246957830000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400131548597843
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400131728997873
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400131728927874
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400131532101298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400131532041302
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_PROP_BLURRED_SIDE.PNG.DDS",
+      "size": 43920,
+      "date": 132400130730927916
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_PROP_BLURRED_SIDE.PNG.DDS.json",
+      "size": 119,
+      "date": 132400130730917917
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_PROPELLER_BLUR_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400130625074948
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_PROPELLER_BLUR_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400130625054951
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_PROPELLER_SLOW_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400130745042812
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_PROPELLER_SLOW_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400130745012811
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400131737347627
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400131737277630
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400131745457401
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400131745387396
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_DOORS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400130978637145
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_DOORS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400130978597145
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_FLOOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400131035932509
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_FLOOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400131035892559
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_GARMINS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400131289190837
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_GARMINS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400131289150840
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_MAIN_PANEL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400130987697277
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_MAIN_PANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400130987657279
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_PEDESTAL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400131306051314
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_PEDESTAL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400131306011318
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_SEAT_BACK_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400131189753571
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_SEAT_BACK_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400131189713576
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_SEAT_FRONT_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400131180517825
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_SEAT_FRONT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400131180467827
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_SIDE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400131300261308
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_SIDE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400131300221308
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_YOKE_PEDALS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400131238693399
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/CIRRUS_SR22_COCKPIT_YOKE_PEDALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400131238653408
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/texture.CFG",
+      "size": 325,
+      "date": 132267782200000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/thumbnail.JPG",
+      "size": 153087,
+      "date": 132300483580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/TEXTURE.CARBONWHITE/thumbnail_small.JPG",
+      "size": 27874,
+      "date": 132300485180000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_SR22-CARBONWHITE/MODEL.MAIN/model.CFG",
+      "size": 15018,
+      "date": 132323595900000000
+    }
+  ]
+}

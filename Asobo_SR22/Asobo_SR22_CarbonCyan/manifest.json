@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "CARBONCYAN",
+  "manufacturer": "Cirrus",
+  "creator": "Asobo Studio",
+  "package_version": "0.1.35",
+  "minimum_game_version": "1.8.2",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
