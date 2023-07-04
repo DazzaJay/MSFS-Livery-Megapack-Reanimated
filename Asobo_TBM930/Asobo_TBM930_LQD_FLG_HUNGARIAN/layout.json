@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/MODEL.AILQD_FLG_HUNGARIAN/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/TEXTURE.LQD_FLG_HUNGARIAN/TBM_930_AIRFRAME_DECALS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/TEXTURE.LQD_FLG_HUNGARIAN/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/TEXTURE.LQD_FLG_HUNGARIAN/TBM_930_AIRFRAME_PLANE_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/TEXTURE.LQD_FLG_HUNGARIAN/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/TEXTURE.LQD_FLG_HUNGARIAN/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/TEXTURE.LQD_FLG_HUNGARIAN/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/TEXTURE.LQD_FLG_HUNGARIAN/thumbnail_small.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_HUNGARIAN/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

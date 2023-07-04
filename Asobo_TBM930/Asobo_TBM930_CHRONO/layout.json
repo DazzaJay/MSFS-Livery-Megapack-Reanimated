@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/MODEL.AICHRONO/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/TBM_930_AIRFRAME_PLANE_ALBD.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/TBM_930_AIRFRAME_PLANE_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/TBM_930_AIRFRAME_PROP_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/TBM_930_AIRFRAME_PROP_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/thumbnail.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/TEXTURE.CHRONO/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-CHRONO/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/MODEL.AIBLUENBLACK/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/TBM_930_AIRFRAME_PLANE_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/TBM_930_AIRFRAME_PROP_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/TBM_930_AIRFRAME_PROP_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/TEXTURE.BLUENBLACK/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-BLUENBLACK/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}
