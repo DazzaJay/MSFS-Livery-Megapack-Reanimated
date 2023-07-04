@@ -1,0 +1,59 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/ICON_A5_AIRFRAME_BODY02_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/ICON_A5_AIRFRAME_BODY02_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/ICON_A5_AIRFRAME_BODY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/ICON_A5_AIRFRAME_BODY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/ICON_A5_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/ICON_A5_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/TEXTURE.Yellow/thumbnail_small.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-Yellow/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

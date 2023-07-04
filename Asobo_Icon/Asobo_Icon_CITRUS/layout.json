@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICONA5_COCKPIT_DECAL_ALBD.TIF.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICONA5_COCKPIT_DECAL_ALBD.TIF.DDS.FLAGS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICONA5_COCKPIT_DECAL_ALBD.TIF.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICONA5_COCKPIT_DECAL_EMIS.TIF.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICONA5_COCKPIT_DECAL_EMIS.TIF.DDS.FLAGS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICONA5_COCKPIT_DECAL_EMIS.TIF.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICONA5_COCKPIT_SHELL_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICONA5_COCKPIT_SHELL_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_BODY02_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_BODY02_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_BODY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_BODY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_DECALS_02_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_DECALS_02_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_DETAILS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_DETAILS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_TIRES_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/ICON_A5_AIRFRAME_TIRES_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/SCREENCAPTURE0_LE.PNG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/thumbnail.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/TEXTURE.CITRUS/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-CITRUS/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}
