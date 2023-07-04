@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/Aircraft.CFG",
+      "size": 351,
+      "date": 132445808165690972
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/DR400_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 16512,
+      "date": 132432011590110676
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/DR400_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421566128566813
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/DR400_AIRFRAME_LYCOMING_FUSELAGE_ALBD.PNG.DDS",
+      "size": 22390228,
+      "date": 132446064515485629
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/DR400_AIRFRAME_LYCOMING_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421566129135294
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/DR400_AIRFRAME_RIVETS_ALBD.PNG.DDS",
+      "size": 4194432,
+      "date": 132431802011091772
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/DR400_AIRFRAME_RIVETS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132421566129839142
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/DR400_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369748,
+      "date": 132446064617935568
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/DR400_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421566131236165
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/texture.CFG",
+      "size": 265,
+      "date": 132447567328495071
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/thumbnail.jpg",
+      "size": 206927,
+      "date": 132446129185473384
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-OBWINGS/TEXTURE.OBWINGS/thumbnail_small.jpg",
+      "size": 206927,
+      "date": 132446129185473384
+    }
+  ]
+}

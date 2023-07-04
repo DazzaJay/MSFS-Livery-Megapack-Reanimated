@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/Aircraft.CFG",
+      "size": 348,
+      "date": 132446105002353901
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/DR400_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 21972,
+      "date": 132445823326435595
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/DR400_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421566128566813
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/DR400_AIRFRAME_LYCOMING_FUSELAGE_ALBD.PNG.DDS",
+      "size": 22390228,
+      "date": 132446047603952863
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/DR400_AIRFRAME_LYCOMING_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421566129135294
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/DR400_AIRFRAME_RIVETS_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132422053610247919
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/DR400_AIRFRAME_RIVETS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132421566129839142
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/DR400_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369748,
+      "date": 132446047776512946
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/DR400_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421566131236165
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/texture.CFG",
+      "size": 265,
+      "date": 132447781472048343
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/thumbnail.jpg",
+      "size": 199019,
+      "date": 132446116451510380
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-GWWINGS/TEXTURE.GWWINGS/thumbnail_small.jpg",
+      "size": 199019,
+      "date": 132446116451510380
+    }
+  ]
+}
