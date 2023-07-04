@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "liveries-DA40NG",
+  "manufacturer": "Diamond Aircraft",
+  "creator": "Orvidius NecroBones",
+  "package_version": "0.1.51",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

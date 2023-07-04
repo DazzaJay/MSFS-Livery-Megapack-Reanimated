@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/aircraft.cfg",
+      "size": 10060,
+      "date": 132367900270000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_DECAL_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_DECAL_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400120866675507
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400120866675507
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_LANDING_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_LANDING_ALBD.PNG.DDS.json",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400120866675507
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/texture.CFG",
+      "size": 166,
+      "date": 132243417610000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/thumbnail.JPG",
+      "size": 236335,
+      "date": 132200099790000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/TEXTURE.EXPORANGE/thumbnail_small.JPG",
+      "size": 33608,
+      "date": 132270122080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Orvidius_DA40NG_EXPORANGE/MODEL.MAIN/model.CFG",
+      "size": 10060,
+      "date": 132367900270000000
+    }
+  ]
+}
