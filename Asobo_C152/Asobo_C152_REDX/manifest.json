@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    {
+      "name": "Cessna 152 Red X",
+      "package_version": "1.0"
+    }
+],
+  "content_type": "AIRCRAFT",
+  "title": "Cessna 152 Red X",
+  "manufacturer": "Textron Aviation",
+  "creator": "SmearyGrain",
+  "package_version": "1.0",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

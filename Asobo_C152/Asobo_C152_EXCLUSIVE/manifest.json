@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "Cessna 152 Exclusive",
+      "package_version": "1.0"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Cessna 152 Exclusive",
+  "manufacturer": "Textron Aviation",
+  "creator": "maxx2504/Micha#9351",
+  "package_version": "1.0",
+  "minimum_game_version": "1.8.2",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000533490847"
+}
