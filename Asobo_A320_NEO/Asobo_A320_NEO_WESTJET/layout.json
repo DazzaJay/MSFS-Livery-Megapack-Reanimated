@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/aircraft.cfg",
+      "size": 4089,
+      "date": 132486690864905611
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/MODEL.AIWESTJET/model.cfg",
+      "size": 249,
+      "date": 132443446884885982
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/MODEL.MAIN/model.CFG",
+      "size": 938,
+      "date": 132486690839472167
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132477622190000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421702980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 89478660,
+      "date": 132477509290000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421702980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132466314870000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447704680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132464573760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132421703000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+      "size": 516,
+      "date": 132454158420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132421703000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 132464613510000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421703000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132466313450000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447704700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/texture.CFG",
+      "size": 228,
+      "date": 132444813270000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/thumbnail.jpg",
+      "size": 322423,
+      "date": 132464615710000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-WESTJET/TEXTURE.WESTJET/thumbnail_small.jpg",
+      "size": 78876,
+      "date": 132464615830000000
+    }
+  ]
+}

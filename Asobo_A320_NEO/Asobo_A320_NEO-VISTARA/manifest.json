@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Vistara Airlines",
+  "manufacturer": "Airbus",
+  "creator": "TheMaharaja",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "10102020",
+      "OlderHistory": ""
+    }
+  }
+}

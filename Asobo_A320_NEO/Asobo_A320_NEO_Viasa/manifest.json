@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "fs-base-propdefs",
+      "package_version": "0.1.2"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "VIASA",
+  "manufacturer": "Airbus",
+  "creator": "oliveiralberto#6223",
+  "package_version": "1.1",
+  "minimum_game_version": "1.10.7.0",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": "added model folder to make it work in Flight Simulator 2020 version 1.10.7.0"
+    }
+  },
+  "total_package_size": "00000000000000000000"
+}

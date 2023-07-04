@@ -1,0 +1,114 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/aircraft.cfg",
+	  "size": 2168,
+	  "date": 1602344962697
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+	  "size": 2796344,
+	  "date": 1597769972136
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1596825798000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1602352287645
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1597769972166
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+	  "size": 67109012,
+	  "date": 1602349792025
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1597769972308
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1602352329205
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1597769972336
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.dds",
+	  "size": 4194452,
+	  "date": 1602336283679
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1596102912000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+	  "size": 4194452,
+	  "date": 1602349386441
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1596102912000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+	  "size": 67109012,
+	  "date": 1602348673196
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1596825798000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1602352367878
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1597769972821
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_WINGS_NORM.PNG.DDS",
+	  "size": 5592560,
+	  "date": 1597769972831
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/A320NEO_AIRFRAME_WINGS_NORM.PNG.DDS.json",
+	  "size": 160,
+	  "date": 1597769972833
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/texture.CFG",
+	  "size": 205,
+	  "date": 1602189339870
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/thumbnail.jpg",
+	  "size": 47451,
+	  "date": 1602350677810
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-VISTARA/TEXTURE.VistaraAirlines/thumbnail_small.jpg",
+	  "size": 9886,
+	  "date": 1602350677831
+	}
+  ]
+}
