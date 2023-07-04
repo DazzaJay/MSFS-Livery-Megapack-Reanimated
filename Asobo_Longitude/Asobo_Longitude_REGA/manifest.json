@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo_Longitude_REGA_TEXTURE.REGA",
+  "manufacturer": "Textron Aviation",
+  "creator": "DaTurret",
+  "package_version": "0.1.39",
+  "minimum_game_version": "1.8.2",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

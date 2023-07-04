@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/aircraft.cfg",
+      "size": 1975,
+      "date": 160097437325874090
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 160063583977283900
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 160063583977984230
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_FUSELAGE1_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 160063583981783830
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_FUSELAGE1_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 160063583982183780
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 160063583987884090
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 160063583988383810
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_FUSELAGE2_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 160063583991683890
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_FUSELAGE2_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 160063583993084060
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 160063584017383820
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 160063584054284020
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 160063584219684180
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 160063584220584010
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 160063584223983940
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/LONGITUDE_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 160063584224583780
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/texture.CFG",
+      "size": 233,
+      "date": 160090318825883440
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/thumbnail.JPG",
+      "size": 155876,
+      "date": 160063584410484080
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Longitude-REGA/TEXTURE.REGA/thumbnail_small.JPG",
+      "size": 32578,
+      "date": 160063584410883760
+    }
+  ]
+}
