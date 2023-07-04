@@ -1,0 +1,129 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/aircraft.cfg",
+      "size": 1,
+      "date": 132367900270000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132398508758630094
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132398508758580090
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132398508745550481
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132398508745510484
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132398508751510304
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132398508751470306
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132398507575965146
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132398507575895148
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_HUBLOT_ALBD.PNG.dds",
+      "size": 5592560,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_HUBLOT_ALBD.PNG.dds.json",
+      "size": 1,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_HUBLOT_COMP.PNG.dds",
+      "size": 5592560,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_HUBLOT_COMP.PNG.dds.json",
+      "size": 1,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_HUBLOT_EMIS.PNG.dds",
+      "size": 5592560,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_HUBLOT_EMIS.PNG.dds.json",
+      "size": 1,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_HUBLOT_NORM.PNG.dds",
+      "size": 5592560,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/A320NEO_AIRFRAME_HUBLOT_NORM.PNG.dds.json",
+      "size": 1,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/texture.CFG",
+      "size": 1,
+      "date": 132243417610000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/thumbnail.JPG",
+      "size": 1,
+      "date": 132200099790000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/TEXTURE.TOLL/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132270122080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-Toll/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132367900270000000
+    }
+  ]
+}

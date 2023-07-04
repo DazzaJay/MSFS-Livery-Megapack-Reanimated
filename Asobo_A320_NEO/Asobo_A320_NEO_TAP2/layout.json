@@ -1,0 +1,127 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/aircraft.cfg",
+      "size": 10060,
+      "date": 132367900270000000
+    },
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS",
+		"size": 5592580,
+		"date": 1599387229141
+	  },
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+		"size": 119,
+		"date": 1597711348302
+	  },
+	{
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132398508758630094
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132398508758580090
+    },
+
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+		"size": 5592580,
+		"date": 1599568761526
+	  },
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+		"size": 191,
+		"date": 1597711348340
+	  },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132398508745550481
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132398508745510484
+    },
+
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_FUSELAGE_COMP.dds",
+		"size": 5592580,
+		"date": 1600290721688
+	  },
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.dds",
+		"size": 5592580,
+		"date": 1600290821086
+	  },
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+		"size": 191,
+		"date": 1597711348426
+	  },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132398508751510304
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132398508751470306
+    },
+
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+		"size": 5592580,
+		"date": 1600292109155
+	  },
+	  {
+		"path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+		"size": 191,
+		"date": 1597711348768
+	  },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132398507575965146
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132398507575895148
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/texture.CFG",
+      "size": 166,
+      "date": 132243417610000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/thumbnail.JPG",
+      "size": 236335,
+      "date": 132200099790000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-TAP2/TEXTURE.TAP2/thumbnail_small.JPG",
+      "size": 33608,
+      "date": 132270122080000000
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/MODEL.AITLSPIRIT/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/TEXTURE.TLSPIRIT/thumbnail_small.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-TLSPIRIT/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}
