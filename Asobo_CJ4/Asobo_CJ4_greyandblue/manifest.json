@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "asobo-aircraft-cj4 Grey and Blue",
+      "package_version": "0.1.2"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Grey and blue",
+  "manufacturer": "Textron Aviation",
+  "creator": "Monstermatti",
+  "package_version": "0.1.38",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000390751255"
+}

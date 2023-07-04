@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "path": "layout.json",
+      "size": 3361,
+      "date": 160098290247800000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/aircraft.cfg",
+      "size": 1957,
+      "date": 160097437325800000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 160089316450100000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 159985291400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 160089987598500000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 159778766043400000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5636,
+      "date": 160080098005300000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 159985291400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 160089310435800000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 160072601171200000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_WING_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 160089970144200000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/CESSNA_CJ4_AIRFRAME_WING_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 159778766110800000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/texture.CFG",
+      "size": 231,
+      "date": 160090320961100000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/thumbnail.jpg",
+      "size": 282266,
+      "date": 160097392438500000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/TEXTURE.REGA/thumbnail_small.jpg",
+      "size": 61738,
+      "date": 160097400206100000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-REGA/MODEL.MAIN/model.CFG",
+      "size": 1957,
+      "date": 160097437325800000
+    }
+  ]
+}

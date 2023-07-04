@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "de-DE",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Im Jahr 2006 nahm Cessna es auf sich, den Markt für leichte Businessjets zu erobern und kündigte sein neuestes Modell der Citation-II-Serie an: die Citation C4.<\/br><\/br>Als sich das Modell 2010 zum ersten Mal in die Lüfte erhob, bot der CJ4 einen auf Firmenkunden zugeschnittenen, komfortablen und technisch versierten Fahrgastraum sowie mehr Geschwindigkeit, Reichweite und eine größere Kabinengröße als der zur damaligen Zeit beliebte CJ3 des Unternehmens – und all das ohne die höheren Betriebskosten eines Jets mittlerer Größe.<\/br><\/br>Entwickelt für die Steuerung mit einem Piloten wurde das Flugdeck ergonomisch an ein Collins-Pro-Line-21-Avionik-Paket angepasst und verfügt über folgende Komponenten: Ein Flugmanagementsystem mit GPS-Navigation, MultiScan-Wetterverfolgung, integrierte elektronische Checklisten und ein aktives Crew-Warnsystem.<\/br><\/br>Die Citation CJ4 wird von verlässlichen Mantelstromtriebwerken des Typs Williams Int’l FJ44-4A angetrieben, die perfekt mit seinem großen, mäßig-schrägen Flügel harmoniert, um so einen schnellen Aufstieg, einen sanften Flug und eine hohe Geschwindigkeit zu ermöglichen – während die modulierten Luftbremsen gleichzeitig für Effektivität in Sachen Abbremsen und Sinkflug sorgen und das Langhub-Trailing-Link-Fahrwerk eine sanfte Landung garantiert, die die Piloten und Passagiere von einer Cessna der CJ-Serie erwarten.",
+      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
+      "AIRCRAFT.UI_MODEL": "Cessna Citation CJ4"
+    }
+  }
+}

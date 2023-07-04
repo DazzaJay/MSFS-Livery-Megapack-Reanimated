@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "pl-PL",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "W 2006 roku firma Cessna postanowiła podbić rynek lekkich odrzutowych samolotów biznesowych, opracowując najnowszy model z serii Citation II: Citation CJ4.<\/br><\/br>W dniu swojej premiery w roku 2010 model CJ4 charakteryzował się nowoczesną i wygodną przestrzenią pasażerską stworzoną specjalnie dla klientów biznesowych oraz zwiększonym zasięgiem i rozmiarem kabiny, a także wyższą prędkością w porównaniu z wciąż popularnym modelem CJ3. A wszystko to bez kompromisu w postaci zwiększonych kosztów eksploatacyjnych.<\/br><\/br>Zaprojektowana z myślą o pojedynczym pilocie kabina załogi została ergonomicznie rozplanowana wokół układu awioniki Collins Pro Line 21 i wypełniona zaawansowanymi elementami technologicznymi: systemem zarządzania lotem z nawigacją GPS, radarem pogodowym MultiScan, zintegrowanym elektronicznym systemem list kontrolnych oraz aktywnym systemem powiadamiania załogi.<\/br><\/br>Model Citation CJ4 wyposażony jest w niezawodne silniki turbowentylatorowe Williams Int'l FJ44-4A, które idealnie współgrają z dużymi, lekko skośnymi skrzydłami, zapewniając szybkie wznoszenie, płynny lot i wysoką prędkość powietrzną. Z drugiej strony modulujące hamulce aerodynamiczne umożliwiają skuteczne zwalnianie i zniżanie lotu, a podwozie chowane o szerokim rozstawie i dodatkowej amortyzacji zapewnia oczekiwane przez pilotów i pasażerów miękkie lądowanie – znak firmowy słynnej serii Cessna CJ.",
+      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
+      "AIRCRAFT.UI_MODEL": "Cessna Citation CJ4"
+    }
+  }
+}

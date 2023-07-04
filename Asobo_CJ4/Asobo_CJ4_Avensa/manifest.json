@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "asobo-aircraft-cj4 AVENSA",
+      "package_version": "0.1.1"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "AVENSA",
+  "manufacturer": "Textron Aviation",
+  "creator": "oliveiralberto#6223",
+  "package_version": "0.1.38",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000390751255"
+}

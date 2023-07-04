@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "pt-BR",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Em 2006, a Cessna partiu para conquistar o mercado de jatos comerciais leves, apresentando o modelo mais recente da sua linha evolucionária Citation II: o Citation CJ4.<\/br><\/br>Quando voou oficialmente em 2010, o CJ4 ofereceu um espaço para os passageiros tecnológico e cheio de comodidades adaptado para a clientela corporativa, além de mais velocidade, alcance e tamanho de cabine do que o já conhecido modelo CJ3 da empresa – tudo sem os custos operacionais mais altos de um jato de tamanho médio.<\/br><\/br>Projetado com o controle de um piloto em mente, a cabine de comando é ergonomicamente organizada em torno de um pacote de aviônica Collins Pro Line 21 e um conjunto de componentes avançados: Sistema de Gerenciamento de Voo com navegação por GPS, controle de clima MultiScan, checklists eletrônicas integradas e um sistema de alerta de tripulação ativo.<\/br><\/br>O Citation CJ4 tem turbofans Williams Int'l FJ44-4A confiáveis, que combinam muito bem com sua grande asa de arrasto moderado para oferecer subida rápida, voo suave e velocidade em relação ao ar alta – por outro lado, freios de velocidade modulada são fundamentais para a redução de velocidade e a descida, e o trem de pouso retrátil dinâmico com hastes longas oferece o pouso suave que pilotos e passageiros esperam da famosa linha CJ da Cessna.",
+      "AIRCRAFT.UI_MANUFACTURER": "Textron Aviation",
+      "AIRCRAFT.UI_MODEL": "Cessna Citation CJ4"
+    }
+  }
+}

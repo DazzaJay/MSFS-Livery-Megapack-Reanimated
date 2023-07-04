@@ -1,0 +1,319 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/aircraft.cfg",
+      "size": 3260,
+      "date": 132361711080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156306345738
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156306295738
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_FRONTGEAR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156149237279
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_FRONTGEAR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156149197284
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156202652871
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156202612877
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132400156395258802
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156395238803
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_LOD6_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 132400156431885782
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_LOD6_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156431865783
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_PROP_BLUR_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400156290070204
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_PROP_BLUR_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400156290040205
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_PROP_SLOW_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400156314504746
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_PROP_SLOW_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400156314464747
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_REARGEAR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156299470376
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_REARGEAR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156299430377
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_RIVETS_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400156247788772
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_RIVETS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400156247758773
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_TEXT_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400156312554798
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_TEXT_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246935420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_TEXT_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400156312484804
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156155357103
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156155307105
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_AOA_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156860018425
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_AOA_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156859978427
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_CABIN_01_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156490259939
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_CABIN_01_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156490219942
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_CABIN_02_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156732180004
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_CABIN_02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156732140001
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_DECAL_ALBD.TIF.DDS",
+      "size": 1398256,
+      "date": 132411916821599178
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_DECAL_ALBD.TIF.DDS.FLAGS",
+      "size": 18,
+      "date": 132246935390000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_DECAL_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132411916821569178
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_DECAL_EMIS.PNG.DDS",
+      "size": 1398256,
+      "date": 132400156867155592
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_DECAL_EMIS.PNG.DDS.json",
+      "size": 119,
+      "date": 132400156867125593
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_DOOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156806427857
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_DOOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156806387857
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_FURNITURES_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156718269403
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_FURNITURES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156718229404
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_INPUTS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156708763128
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_INPUTS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156708723132
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_INPUTS_EMIS.PNG.DDS",
+      "size": 184,
+      "date": 132400156599407541
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_INPUTS_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156599387539
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_LIGHTBULBS_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 132400156490900212
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_LIGHTBULBS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156490879927
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_LIGHTBULBS_EMIS.PNG.DDS",
+      "size": 174904,
+      "date": 132400156507204797
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_LIGHTBULBS_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156507184798
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_PANEL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156873416447
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_PANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156873376447
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_PEDALS_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132400156957938579
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156957908579
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_SEAT_CABIN_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156482587386
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_SEAT_CABIN_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156482547395
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_SEAT_PILOT_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156506614814
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_SEAT_PILOT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156506574816
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_SHELL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156497429927
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_SHELL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156497399930
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_YOKE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132410335559144338
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/CJ4_COCKPIT_YOKE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132410335559104332
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/texture.CFG",
+      "size": 172,
+      "date": 132203718520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/thumbnail.JPG",
+      "size": 150624,
+      "date": 132300455930000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/TEXTURE.GREYANDBLUE/thumbnail_small.JPG",
+      "size": 29506,
+      "date": 132300455390000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-greyandblue/MODEL.MAIN/model.CFG",
+      "size": 3260,
+      "date": 132361711080000000
+    }
+  ]
+}
