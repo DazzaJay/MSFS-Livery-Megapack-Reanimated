@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/aircraft.cfg",
+      "size": 2100,
+      "date": 132489317092588289
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/MODEL.GREEN/model.CFG",
+      "size": 752,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/TEXTURE.GREEN/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 4224,
+      "date": 132488510839430729
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/TEXTURE.GREEN/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132447526872754101
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/TEXTURE.GREEN/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 22369748,
+      "date": 132426282107821322
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/TEXTURE.GREEN/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132447526872734156
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/TEXTURE.GREEN/texture.CFG",
+      "size": 270,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/TEXTURE.GREEN/thumbnail.JPG",
+      "size": 334710,
+      "date": 132438881886985738
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Green_Gold/TEXTURE.GREEN/thumbnail_small.JPG",
+      "size": 59538,
+      "date": 132438882300225554
+    }
+  ]
+}

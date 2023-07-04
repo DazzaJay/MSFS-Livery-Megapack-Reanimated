@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/aircraft.cfg",
+      "size": 2039,
+      "date": 132489320703073517
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/MODEL.BLUE/model.CFG",
+      "size": 752,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/TEXTURE.BLUE/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 4224,
+      "date": 132488497023321883
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/TEXTURE.BLUE/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132447526872754101
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/TEXTURE.BLUE/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132447524140458175
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/TEXTURE.BLUE/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132447524140458175
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/TEXTURE.BLUE/texture.CFG",
+      "size": 270,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/TEXTURE.BLUE/thumbnail.JPG",
+      "size": 307441,
+      "date": 132488551025463694
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Arista_Blue/TEXTURE.BLUE/thumbnail_small.JPG",
+      "size": 57060,
+      "date": 132488551242168379
+    }
+  ]
+}

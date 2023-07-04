@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    {
+      "name": "Cessna Skyhawk G1000 Burgundy",
+      "package_version": "1.0"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Cessna Skyhawk G1000 Burgundy",
+  "manufacturer": "Textron Aviation",
+  "creator": "ozzieblr",
+  "package_version": "1.0",
+  "minimum_game_version": "1.10.8",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

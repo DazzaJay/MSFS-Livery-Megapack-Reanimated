@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/aircraft.cfg",
+      "size": 12319,
+      "date": 132361710260000000
+    },
+	{
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/MODEL.BURGUNDY/model.cfg",
+      "size": 12319,
+      "date": 132361710260000000
+    },
+    {
+     "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/thumbnail.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-BURGUNDY/TEXTURE.BURGUNDY/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

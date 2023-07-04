@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    {
+      "name": "Cessna Skyhawk G1000 Blue and Gold",
+      "package_version": "0.1.2"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Cessna Skyhawk G1000 Blue and Gold",
+  "manufacturer": "Textron Aviation",
+  "creator": "Asobo Studio and Eaglepilot6",
+  "package_version": "0.1.2",
+  "minimum_game_version": "1.10.8",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

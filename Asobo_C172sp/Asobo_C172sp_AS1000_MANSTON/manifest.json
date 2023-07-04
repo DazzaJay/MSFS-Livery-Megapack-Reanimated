@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "Cessna Skyhawk G1000 Asobo Manston Air",
+      "package_version": "1.6"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Cessna Skyhawk G1000 Asobo Manston Air",
+  "manufacturer": "",
+  "creator": "rob54613",
+  "package_version": "1.6",
+  "minimum_game_version": "1.0",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "30/10/2020",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000000000"
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/aircraft.cfg",
+      "size": 2103,
+      "date": 132489311837396038
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/MODEL.TOPAZ/model.CFG",
+      "size": 752,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/TEXTURE.TOPAZ/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 4224,
+      "date": 132488515022892025
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/TEXTURE.TOPAZ/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132447526872754101
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/TEXTURE.TOPAZ/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132447524140458175
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/TEXTURE.TOPAZ/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132447524140458175
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/TEXTURE.TOPAZ/texture.CFG",
+      "size": 270,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/TEXTURE.TOPAZ/thumbnail.JPG",
+      "size": 303448,
+      "date": 132488553447839136
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-Topaz/TEXTURE.TOPAZ/thumbnail_small.JPG",
+      "size": 56330,
+      "date": 132488553644368097
+    }
+  ]
+}

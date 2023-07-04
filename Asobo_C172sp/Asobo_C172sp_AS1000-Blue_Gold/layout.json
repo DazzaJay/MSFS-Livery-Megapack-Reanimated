@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/aircraft.cfg",
+      "size": 2106,
+      "date": 132489308748858833
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/MODEL.BLGO/model.CFG",
+      "size": 752,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/TEXTURE.BLGO/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 4224,
+      "date": 132488510510375268
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/TEXTURE.BLGO/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132447526872754101
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/TEXTURE.BLGO/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132447524140458175
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/TEXTURE.BLGO/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132447524140458175
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/TEXTURE.BLGO/texture.CFG",
+      "size": 270,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/TEXTURE.BLGO/thumbnail.JPG",
+      "size": 304901,
+      "date": 132488579277088382
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-BLGO/TEXTURE.BLGO/thumbnail_small.JPG",
+      "size": 56671,
+      "date": 132488579472385241
+    }
+  ]
+}

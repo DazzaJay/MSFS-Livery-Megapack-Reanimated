@@ -1,0 +1,80 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+{
+      "path": "SimObjects/AirPlanes/Asobo_C172sp_AS1000-PURX/MODEL.PURX/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+}, 
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+{
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/thumbnail.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000-PURX/TEXTURE.PURX/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/aircraft.cfg",
+      "size": 2085,
+      "date": 132489298575027066
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/MODEL.JADE/model.CFG",
+      "size": 752,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/TEXTURE.JADE/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 4224,
+      "date": 132488511429666664
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/TEXTURE.JADE/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132447526872754101
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/TEXTURE.JADE/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 22369748,
+      "date": 132426282107821322
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/TEXTURE.JADE/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132447526872734156
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/TEXTURE.JADE/texture.CFG",
+      "size": 270,
+      "date": 132487155560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/TEXTURE.JADE/thumbnail.JPG",
+      "size": 304248,
+      "date": 132488539617273025
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172SP_AS1000-JADE/TEXTURE.JADE/thumbnail_small.JPG",
+      "size": 56243,
+      "date": 132488539821318641
+    }
+  ]
+}
