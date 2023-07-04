@@ -1,0 +1,114 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 310,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/aircraft.cfg",
+      "size": 2114,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_787_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_787_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_DECALS2_ALBD.PNG.dds",
+      "size": 5592580,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/texture.CFG",
+      "size": 229,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/thumbnail.JPG",
+      "size": 299303,
+      "date": 132437916000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-thai/TEXTURE.THAI787/thumbnail_small.JPG",
+      "size": 77866,
+      "date": 132437916000000000
+    }
+  ]
+}

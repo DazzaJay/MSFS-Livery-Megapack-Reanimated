@@ -1,0 +1,119 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/aircraft.cfg",
+      "size": 2097,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_787_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_787_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_DECALS2_ALBD.PNG.dds",
+      "size": 5592580,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/texture.CFG",
+      "size": 229,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/thumbnail.JPG",
+      "size": 323204,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/TEXTURE.ACBLUE/thumbnail_small.JPG",
+      "size": 74684,
+      "date": 132448284000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-ACBLUE/MODEL.MAIN/model.CFG",
+      "size": 2097,
+      "date": 132448284000000000
+    }
+  ]
+}

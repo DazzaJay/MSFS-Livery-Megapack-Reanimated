@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/aircraft.cfg",
+      "size": 2073,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_787_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_787_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_FUSELAGE1_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_FUSELAGE1_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_FUSELAGE2_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_FUSELAGE2_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS",
+      "size": 87556,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_TAIL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_TAIL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/787_10_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/texture.CFG",
+      "size": 229,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/thumbnail.JPG",
+      "size": 297978,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/TEXTURE.TUI/thumbnail_small.JPG",
+      "size": 74200,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-TUI/MODEL.MAIN/model.CFG",
+      "size": 2073,
+      "date": 132437052000000000
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/aircraft.cfg",
+      "size": 2079,
+      "date": 132509226355236677
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/MODEL.MAIN/model.CFG",
+      "size": 722,
+      "date": 132486873121496081
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_787_ALBD.PNG.DDS",
+      "size": 1048724,
+      "date": 132426853441656934
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_787_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132422062374735917
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS1_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132422062374765943
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS1_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132422062374765943
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS1_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132422062374815987
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS1_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132422062374825998
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS1_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132422062374866038
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132422062374866038
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS",
+      "size": 4194452,
+      "date": 132452199582061427
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132422062374954334
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132422062374964344
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS2_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132422062375004378
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS2_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132422062375014387
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS2_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132422062375154516
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_DECALS2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132422062375164522
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 16777364,
+      "date": 132452190073393502
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422062375314662
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS",
+      "size": 16777364,
+      "date": 132452187689286733
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422062376926125
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE1_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132422062377046232
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE1_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132422062377056238
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE1_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132422062377236401
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132422062377246417
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS",
+      "size": 16777364,
+      "date": 132452196099119907
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422062377296457
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE2_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132422062377476630
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE2_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132422062377486636
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE2_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132422062377656791
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_FUSELAGE2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132422062377666793
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS",
+      "size": 4194452,
+      "date": 132426851880121157
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132422062380535790
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY1_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132422062380575831
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY1_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132422062380585838
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY1_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132422062380705950
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132422062380715958
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS",
+      "size": 164,
+      "date": 132449285277514948
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132422062380796029
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY2_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132422062380836070
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY2_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132422062380846076
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY2_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132422062380975770
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_LIVERY2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132422062380985779
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS",
+      "size": 16777364,
+      "date": 132452192024678882
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422062381706432
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_TAIL_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132422062381846563
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_TAIL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132422062381856573
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_TAIL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132422062381986713
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/787_10_AIRFRAME_TAIL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132422062381996720
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/texture.cfg",
+      "size": 227,
+      "date": 132437158860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/thumbnail.jpg",
+      "size": 119817,
+      "date": 132449336714749547
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-787_ACA/TEXTURE.ACA/thumbnail_small.jpg",
+      "size": 23215,
+      "date": 132449336878113796
+    }
+  ]
+}

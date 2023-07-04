@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/aircraft.cfg",
+      "size": 2073,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400123919323289
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_FUSELAGE1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400123919283286
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400123530214233
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_FUSELAGE2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400123530174237
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400123980500689
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400123980460686
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400123961187806
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_LIVERY1_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400123961117806
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400123547563766
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_LIVERY2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400123547493766
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_787_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400124214850905
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/787_10_AIRFRAME_787_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400124214810909
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/texture.cfg",
+      "size": 209,
+      "date": 132302091220000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/thumbnail.JPG",
+      "size": 121507,
+      "date": 132212413070000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/TEXTURE.etihad/thumbnail_small.JPG",
+      "size": 38231,
+      "date": 132270122470000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-etihad/MODEL.MAIN/model.CFG",
+      "size": 2073,
+      "date": 132437052000000000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "Boeing 787-10 Japan Airlines",
+      "package_version": "0.2.0"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Boeing 787-10 Japan Airlines",
+  "manufacturer": "BOEING",
+  "creator": "TPGRepaint",
+  "package_version": "1",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000000000"
+}
