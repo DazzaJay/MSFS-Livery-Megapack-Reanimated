@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/aircraft.cfg",
+      "size": 3096,
+      "date": 132361708930000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARON_AIRFRAME_LOGOS_ALBD.TIF.DDS",
+      "size": 5592560,
+      "date": 132400138352593662
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARON_AIRFRAME_LOGOS_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132400138352523658
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_AIRFRAME_PAINT_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132400138347093818
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_AIRFRAME_PAINT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400138347073818
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_ENGINE_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132400138521666361
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400138521636366
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400138427303167
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400138427263162
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_FUSELAGE_COMP.PNG.DDS",
+      "size": 102,
+      "date": 132400138427263162
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 102,
+      "date": 132400138427263162
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400138422107548
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400138422057556
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_WINGS_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 132400138422107548
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/BARONG58_WINGS_COMP.PNG.DDS.json",
+      "size": 102,
+      "date": 132400138422057556
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 207,
+      "date": 132207049640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 254927,
+      "date": 132200106730000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 35414,
+      "date": 132270120840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Baron_G58-TEMPLATE/MODEL.MAIN/model.CFG",
+      "size": 3096,
+      "date": 132361708930000000
+    }
+  ]
+}
