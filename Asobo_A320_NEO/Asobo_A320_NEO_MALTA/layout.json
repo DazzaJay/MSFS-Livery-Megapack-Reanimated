@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 308,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/aircraft.cfg",
+      "size": 2437,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 22369796,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+      "size": 349700,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/texture.CFG",
+      "size": 228,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/thumbnail.jpg",
+      "size": 276191,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/TEXTURE.MALTA/thumbnail_small.jpg",
+      "size": 72147,
+      "date": 132449148000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-MALTA/MODEL.MAIN/model.CFG",
+      "size": 2437,
+      "date": 132449148000000000
+    }
+  ]
+}
