@@ -1,0 +1,104 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/aircraft.cfg",
+	  "size": 4099,
+	  "date": 1604366410068
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/MODEL.AISWISSAIR/model.cfg",
+	  "size": 249,
+	  "date": 315576060000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/MODEL.MAIN/model.CFG",
+	  "size": 938,
+	  "date": 1604336826944
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+	  "size": 16777344,
+	  "date": 1599324508438
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1596825798000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+	  "size": 16777344,
+	  "date": 1599323698550
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1596825798000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.dds",
+	  "size": 5592580,
+	  "date": 1603417012686
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1599520642335
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_LIVERY_ALBD.PNG",
+	  "size": 2691839,
+	  "date": 1599053885519
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+	  "size": 16777344,
+	  "date": 1599053796552
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1596102912000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+	  "size": 4194432,
+	  "date": 1598487074437
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1596102912000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+	  "size": 16777344,
+	  "date": 1599323725432
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1596825798000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/A320NEO_COCKPIT_OVERHEAD_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1597693350000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/texture.CFG",
+	  "size": 205,
+	  "date": 1599312384891
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/thumbnail.jpg",
+	  "size": 42356,
+	  "date": 1604357158412
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320_NEO-SWISSAIR/TEXTURE.SWISSAIR/thumbnail_small.jpg",
+	  "size": 9556,
+	  "date": 1604357158451
+	}
+  ]
+}

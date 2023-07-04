@@ -1,0 +1,16 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "SKYEXPRESS LIVERY",
+  "manufacturer": "Airbus",
+  "creator": "DEJHUR - DISCORD: DEJHUR1#4125", 
+  "package_version": "1.1", 
+  "minimum_game_version": "1.10.7.0", 
+  "release_notes": { 
+    "neutral": { 
+      "LastUpdate": "",
+      "OlderHistory": "" 
+    }
+  },
+  "total_package_size": "00000000000071371605"
+}
