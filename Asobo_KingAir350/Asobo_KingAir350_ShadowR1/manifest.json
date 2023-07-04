@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "Royal Air Force Shadow R1",
+  "title": "RAF 14 Squadron Shadow R1",
+  "manufacturer": "Textron Aviation",
+  "creator": "Citatio",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

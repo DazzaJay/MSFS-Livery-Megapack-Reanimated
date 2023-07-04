@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/aircraft.cfg",
+      "size": 3585,
+      "date": 132361714750000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS",
+      "size": 5592560,
+      "date": 132400244659276544
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132400244659196554
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400244702893689
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400244702853687
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400244796181473
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400244796141473
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 11064,
+      "date": 132400244703083678
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400244703063684
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_TAIL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400244713883366
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400244713843362
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400244840065388
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400244840005392
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_RIVETS_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400243852235018
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/KINGAIR350I_AIRFRAME_RIVETS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400243852205021
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/texture.CFG",
+      "size": 239,
+      "date": 132236430140000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/thumbnail.JPG",
+      "size": 310383,
+      "date": 132234638890000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/TEXTURE.RNZAF/thumbnail_small.JPG",
+      "size": 38635,
+      "date": 132270121140000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350-RNZAF/MODEL.MAIN/model.CFG",
+      "size": 3585,
+      "date": 132361714750000000
+    }
+  ]
+}

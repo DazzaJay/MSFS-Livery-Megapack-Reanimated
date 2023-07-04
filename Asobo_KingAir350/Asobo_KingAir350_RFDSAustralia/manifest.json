@@ -1,0 +1,17 @@
+{
+  "dependencies": [],
+
+  "content_type": "AIRCRAFT",
+  "title": "Beechcraft King Air 350i RFDS",
+  "manufacturer": "Textron Aviation",
+  "creator": "vLegion_",
+  "package_version": "0.1.36",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000534141410"
+}

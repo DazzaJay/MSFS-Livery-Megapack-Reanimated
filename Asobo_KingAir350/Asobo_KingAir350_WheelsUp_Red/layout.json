@@ -1,0 +1,99 @@
+{
+  "content": [
+    {
+      "path": "en-US.locPak",
+      "size": 1487,
+      "date": 132422010215031280
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/aircraft.cfg",
+      "size": 4066,
+      "date": 132446799938634235
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS",
+      "size": 4194432,
+      "date": 132428988798950747
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_DECALS_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132422010222663289
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132448298529984928
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422010222782710
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_FUSELAGE_ALBD.PNG",
+      "size": 4194432,
+      "date": 132440573587101386
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132448293236842340
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422010223342671
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 16512,
+      "date": 132431999633547274
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422010225719123
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_TAIL_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132448287815354512
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422010226882480
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 132448303511667033
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/KINGAIR350I_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132422010227946020
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/texture.CFG",
+      "size": 307,
+      "date": 132448330310621630
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/thumbnail.JPG",
+      "size": 226723,
+      "date": 132437239183906618
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/TEXTURE.Red/thumbnail_small.JPG",
+      "size": 36754,
+      "date": 132437239884278516
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_KingAir350_WheelsUp-Red/MODEL.MAIN/model.CFG",
+      "size": 4066,
+      "date": 132446799938634235
+    }
+  ]
+}

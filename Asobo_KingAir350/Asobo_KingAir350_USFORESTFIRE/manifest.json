@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo_KingAir350_USFORESTFIRE_TEXTURE.USFORESTFIRE",
+  "manufacturer": "Textron Aviation",
+  "creator": "1Maple",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
