@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo_A320_NEO_EDELWEISS_TEXTURE.EDELWEISS",
+  "manufacturer": "<<MANUFACTURER>>",
+  "creator": "<<CREATOR>>", 
+  "package_version": "0.1.0", 
+  "minimum_game_version": "1.7.12", 
+  "release_notes": { 
+     "neutral": { 
+       "LastUpdate": "",
+       "OlderHistory": "" 
+    }
+  }
+}

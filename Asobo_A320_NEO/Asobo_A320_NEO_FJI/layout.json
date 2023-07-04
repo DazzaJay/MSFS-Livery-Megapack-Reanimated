@@ -1,0 +1,109 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/aircraft.cfg",
+	  "size": 2136,
+	  "date": 1605344827998
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/MODEL.FijiAirways/model.cfg",
+	  "size": 938,
+	  "date": 1604119776201
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605188913997
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605189027634
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782235
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+	  "size": 89478660,
+	  "date": 1605344957154
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605175142967
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782359
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605344856760
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+	  "size": 4194452,
+	  "date": 1603564778934
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+	  "size": 89478660,
+	  "date": 1605344902685
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605188440499
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782886
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/texture.CFG",
+	  "size": 205,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/thumbnail.jpg",
+	  "size": 41710,
+	  "date": 1605287085942
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_FJI/TEXTURE.FijiAirways/thumbnail_small.jpg",
+	  "size": 9419,
+	  "date": 1605287085965
+	}
+  ]
+}

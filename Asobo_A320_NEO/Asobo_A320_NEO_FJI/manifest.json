@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "Fiji Airways",
+      "package_version": "1.0.0"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Fiji Airways",
+  "manufacturer": "Airbus",
+  "creator": "TheMaharaja",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.10.11.0",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "20201115",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000289505280"
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo_A320_NEO_EVAAIRHELLOKITTY_TEXTURE.EVAAIRHELLOKITTY",
+  "manufacturer": "Airbus",
+  "creator": "1Maple", 
+  "package_version": "0.1.0", 
+  "minimum_game_version": "1.7.12", 
+  "release_notes": { 
+     "neutral": { 
+       "LastUpdate": "20200930",
+       "OlderHistory": "" 
+    }
+  }
+}
