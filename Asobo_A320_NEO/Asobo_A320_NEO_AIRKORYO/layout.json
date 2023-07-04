@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/aircraft.cfg",
+      "size": 4078,
+      "date": 132486690841612746
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/MODEL.AIAIRKORYO/model.cfg",
+      "size": 249,
+      "date": 132443445720426065
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/MODEL.MAIN/model.CFG",
+      "size": 938,
+      "date": 132486690825147628
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132477623070000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421702980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 89478660,
+      "date": 132468265690000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421702980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132466314870000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447704680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132468245660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132421703000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+      "size": 516,
+      "date": 132454158420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132421703000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 132468247170000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132421703000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 132466313450000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132447704700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/texture.CFG",
+      "size": 228,
+      "date": 132444813270000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/thumbnail.jpg",
+      "size": 338499,
+      "date": 132468268260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-AIRKORYO/TEXTURE.AIRKORYO/thumbnail_small.jpg",
+      "size": 80930,
+      "date": 132468268760000000
+    }
+  ]
+}
