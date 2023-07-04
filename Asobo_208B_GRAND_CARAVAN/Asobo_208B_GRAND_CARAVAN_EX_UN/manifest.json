@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "Cessna 208B Grand Caravan EX UN",
+      "package_version": "1.1"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Cessna 208B Grand Caravan EX UN",
+  "manufacturer": "Textron Aviation",
+  "creator": "Barleybobs",
+  "package_version": "1.1",
+  "minimum_game_version": "1.0",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "01/01/2020",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000000000"
+}

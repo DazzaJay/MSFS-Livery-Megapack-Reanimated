@@ -1,0 +1,114 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/MODEL.CLIMBING/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_BODY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_BODY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS.FLAGS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_DECAL_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_COCKPIT_CABIN_SEATS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_COCKPIT_CABIN_SEATS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_COCKPIT_SEAT_FRONT_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_COCKPIT_SEAT_FRONT_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_COMP.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_COMP.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_NORM.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/CESSNA_208B_GRANDCARAVANEX_AIRFRAME_WING_NORM.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_208B_GRAND_CARAVAN_EX-CLIMBING/TEXTURE.CLIMBING/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

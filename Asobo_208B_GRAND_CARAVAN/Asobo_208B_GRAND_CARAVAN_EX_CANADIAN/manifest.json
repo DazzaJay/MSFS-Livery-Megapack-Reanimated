@@ -1,0 +1,22 @@
+{
+  "dependencies": [
+    {
+      "name": "Asobo Cessna 208b Grand Caravan EX Canadian Pacific Livery",
+      "package_version": "1.0"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo Cessna 208b Grand Caravan EX Canadian Pacific Livery",
+  "manufacturer": "Textron Aviation",
+  "creator": "rob54613",
+  "package_version": "1.0",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "18/10/2020",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000123432960"
+}
+

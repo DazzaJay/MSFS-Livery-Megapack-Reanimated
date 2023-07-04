@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "Asobo Cessna 208b Grand Caravan EX Mokulele Air Livery Green",
+      "package_version": "1.0"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo Cessna 208b Grand Caravan EX Mokulele Air Livery Green",
+  "manufacturer": "Textron Aviation",
+  "creator": "rob54613",
+  "package_version": "1.0",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "21/11/2020",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000106647552"
+}

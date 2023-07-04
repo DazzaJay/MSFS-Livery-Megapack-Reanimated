@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "Asobo-208B-Mokulele-Livery",
+      "package_version": "1.4"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo_208B_GRAND_CARAVAN_EX_MOKULELE_TEXTURE.MOKULELE",
+  "manufacturer": "Textron Aviation",
+  "creator": "rob54613",
+  "package_version": "1.4",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "13/10/2020",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000000000"
+}
