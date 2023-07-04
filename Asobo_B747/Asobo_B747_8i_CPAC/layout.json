@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_BELLY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_BELLY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_ENGINEBODY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_ENGINEBODY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_HUBLOT01_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_HUBLOT01_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_HULL_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_HULL_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_LIVERY2_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_LIVERY2_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_WINGFLAPS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_WINGFLAPS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_WING_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/747_8I_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/thumbnail.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/TEXTURE.CPAC/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-CPAC/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}
