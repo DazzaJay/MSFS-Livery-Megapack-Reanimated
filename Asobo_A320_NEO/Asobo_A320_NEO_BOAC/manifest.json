@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo_A320_NEO_BOAC",
+  "manufacturer": "<<Airbus>>",
+  "creator": "JacobK", 
+  "package_version": "0.1.6", 
+  "minimum_game_version": "1.7.12", 
+  "release_notes": { 
+     "neutral": { 
+       "LastUpdate": "",
+       "OlderHistory": "" 
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/aircraft.cfg",
+      "size": 2134,
+      "date": 1600324611374
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 1599387229141
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 1597711348302
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 1599390497388
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 1597711348322
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 1599568761526
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 1597711348340
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 1600291156565
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 1597711348403
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_FUSELAGE_COMP.dds",
+      "size": 5592580,
+      "date": 1600290721688
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.dds",
+      "size": 5592580,
+      "date": 1600290821086
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 1597711348426
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132367900270000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132367900270000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 1599386953963
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 1597711348670
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 1600222089563
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 1597711348749
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+      "size": 5592580,
+      "date": 1600292109155
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 1597711348768
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/texture.CFG",
+      "size": 203,
+      "date": 1600313218226
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/thumbnail.jpg",
+      "size": 668193,
+      "date": 1599400442250
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/TEXTURE.Aurora/thumbnail_small.jpg",
+      "size": 55505,
+      "date": 1599388305601
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-Aurora/MODEL.MAIN/model.CFG",
+      "size": 2134,
+      "date": 1600324611374
+    }
+  ]
+}

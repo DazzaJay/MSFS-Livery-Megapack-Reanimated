@@ -1,0 +1,89 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/MODEL.AICSC/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_WINGS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/Sichuan Airlines.png",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/TEXTURE.CSC/thumbnail_small.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CSC/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

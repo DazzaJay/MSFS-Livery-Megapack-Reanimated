@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/MODEL.AICUA/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_DECALS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_WINGS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/CHINA UNITED.png",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/CUA.png",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/TEXTURE.CUA/thumbnail_small.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO-CUA/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}
