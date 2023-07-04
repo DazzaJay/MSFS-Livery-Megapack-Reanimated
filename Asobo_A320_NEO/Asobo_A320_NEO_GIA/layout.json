@@ -1,0 +1,109 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/aircraft.cfg",
+	  "size": 2163,
+	  "date": 1605281823299
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/MODEL.GarudaIndonesia/model.cfg",
+	  "size": 938,
+	  "date": 1604119776201
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605188913997
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605189027634
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782235
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+	  "size": 67109012,
+	  "date": 1605186517436
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605175142967
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782359
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1603564713603
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+	  "size": 4194452,
+	  "date": 1603564778934
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+	  "size": 67109012,
+	  "date": 1605188641362
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1605188440499
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782886
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/texture.CFG",
+	  "size": 205,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/thumbnail.jpg",
+	  "size": 236335,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_GIA/TEXTURE.GarudaIndonesia/thumbnail_small.jpg",
+	  "size": 33608,
+	  "date": 1599533674000
+	}
+  ]
+}

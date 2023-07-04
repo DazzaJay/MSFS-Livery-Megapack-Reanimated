@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "Hawaiian Airlines",
+      "package_version": "1.0.0"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Hawiian Airlines",
+  "manufacturer": "Airbus",
+  "creator": "TheMaharaja",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.10.11.0",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "20201112",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000191840256"
+}

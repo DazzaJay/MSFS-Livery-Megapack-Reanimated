@@ -1,0 +1,109 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/aircraft.cfg",
+	  "size": 2162,
+	  "date": 1605046856166
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/MODEL.HawaiianAirlines/model.cfg",
+	  "size": 938,
+	  "date": 1604119776201
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+	  "size": 2796344,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS",
+	  "size": 5592580,
+	  "date": 1604599782232
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_ENGINES_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782235
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+	  "size": 67109012,
+	  "date": 1605137499912
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
+	  "size": 5592580,
+	  "date": 1604599782356
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782359
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+	  "size": 4194452,
+	  "date": 1603564713603
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+	  "size": 4194452,
+	  "date": 1603564778934
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+	  "size": 67109012,
+	  "date": 1605172398565
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1599504874000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS",
+	  "size": 5592580,
+	  "date": 1604599782883
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/A320NEO_AIRFRAME_WINGS_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1604599782886
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/texture.CFG",
+	  "size": 205,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/thumbnail.jpg",
+	  "size": 236335,
+	  "date": 1599533674000
+	},
+	{
+	  "path": "SimObjects/AirPlanes/Asobo_A320Neo_8K_HAL/TEXTURE.HawaiianAirlines/thumbnail_small.jpg",
+	  "size": 33608,
+	  "date": 1599533674000
+	}
+  ]
+}
