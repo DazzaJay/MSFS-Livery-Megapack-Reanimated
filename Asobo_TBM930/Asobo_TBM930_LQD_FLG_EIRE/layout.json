@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/MODEL.AILQD_FLG_EIRE/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/TEXTURE.LQD_FLG_EIRE/TBM_930_AIRFRAME_DECALS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/TEXTURE.LQD_FLG_EIRE/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/TEXTURE.LQD_FLG_EIRE/TBM_930_AIRFRAME_PLANE_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/TEXTURE.LQD_FLG_EIRE/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/TEXTURE.LQD_FLG_EIRE/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/TEXTURE.LQD_FLG_EIRE/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/TEXTURE.LQD_FLG_EIRE/thumbnail_small.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_FLG_EIRE/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

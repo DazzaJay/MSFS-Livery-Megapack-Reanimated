@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/MODEL.AILQD_COL_GREENLIMECREAM/model.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/TEXTURE.LQD_COL_GREENLIMECREAM/TBM_930_AIRFRAME_DECALS_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/TEXTURE.LQD_COL_GREENLIMECREAM/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/TEXTURE.LQD_COL_GREENLIMECREAM/TBM_930_AIRFRAME_PLANE_ALBD.PNG.dds",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/TEXTURE.LQD_COL_GREENLIMECREAM/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/TEXTURE.LQD_COL_GREENLIMECREAM/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/TEXTURE.LQD_COL_GREENLIMECREAM/thumbnail.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/TEXTURE.LQD_COL_GREENLIMECREAM/thumbnail_small.jpg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-LQD_COL_GREENLIMECREAM/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}
