@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS.FLAGS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_DETAILS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_DETAILS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_BLURRED_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_BLURRED_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/CUB_CRAFTER_XCUB_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/thumbnail.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/TEXTURE.MOUNTAIN/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-MOUNTAIN/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/aircraft.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS.FLAGS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_DETAILS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_DETAILS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_BLURRED_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_BLURRED_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/CUB_CRAFTER_XCUB_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/thumbnail.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/TEXTURE.BACKCOUNTRY/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub-BACKCOUNTRY/MODEL.MAIN/model.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}
