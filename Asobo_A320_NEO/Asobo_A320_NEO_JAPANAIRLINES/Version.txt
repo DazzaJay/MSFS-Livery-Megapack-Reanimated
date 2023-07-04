@@ -1,0 +1,10 @@
+Japan Airlines
+By Miggle#9207
+
+Changelog:
+
+1.2K- Upgraded to 8K Resolution
+    - Compatible with Patch 5 of MSFS
+
+1.1 - Added ‘Drag n Drop’ compatibility.
+

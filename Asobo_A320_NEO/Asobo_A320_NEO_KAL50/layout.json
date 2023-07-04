@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 308,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/aircraft.cfg",
+      "size": 2473,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.dds",
+      "size": 89478660,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.dds",
+      "size": 349700,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/texture.CFG",
+      "size": 228,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/thumbnail.jpg",
+      "size": 296668,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/TEXTURE.KAL50/thumbnail_small.jpg",
+      "size": 71627,
+      "date": 132462108000000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/Asobo_A320_NEO-KAL50/MODEL.MAIN/model.CFG",
+      "size": 2473,
+      "date": 132462108000000000
+    }
+  ]
+}

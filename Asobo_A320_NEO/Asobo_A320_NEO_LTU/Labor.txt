@@ -1,0 +1,185 @@
+#include <stdio.h>
+
+int main(int argc, char* argv[]) {
+    printf("Hello World!\n");
+    return 0;
+}
+-----------------------------------------------
+
+#include <stdio.h>
+int main()
+{
+    printf("Hello World!\n");           //Semikolon hinzugefügt
+    return 0;
+}
+------------------------------------------------
+
+#include <stdio.h>
+int main()
+{
+    printf("Hello World!\n");         //Smikolon und Anführungszeichen hinzugefügt
+    return 0;
+}
+
+---------------------------------------------------
+
+#include <stdio.h>
+int main()
+{
+    printf("String: %s \n", "Das ist eine Zeichenkette");                   //%s als String Platzhalter hinzugefügt
+    printf("Ganze Zahl: %i \n", 42);                                        //%i als Integer Platzhalter hinzugefügt
+    printf("Fliesskommazahl: %f \n", 3.1415);                               //%f als Float Platzhalter hinzugefügt
+    printf("Fliesskommazahl mit Formatangabe: %08.2f \n", 3.1415);        //%.2f als Floatplatzhalter mit zwei Nachkommastellen hinzugefügt
+    return 0;
+}
+
+-----------------------------------------------------
+
+#include <stdio.h>
+
+int main(void)
+{
+    int i1, i2, i3;
+    
+    // noch ein Beispiel mit scanf
+    scanf("%d %d %d", &i1, &i2, &i3);
+    printf("Ganze Zahlen: %d, %d, %d \n", i1, i2, i3);
+
+    float f;
+    // Ihr Code hier
+    scanf("%f", &f);
+    printf("Fliesskommazahl mit Formatangabe: %.2f \n", f);
+
+    char s[100];
+    // Ihr Code hier
+    scanf("%99s", &s[0]);
+    printf("Zeichenkette: %s \n", s);
+    return 0;
+}
+--------------------------------------------------------
+#include <stdio.h>
+int main(void)
+{
+	double gramm = 0.0, cm = 0.0, BMI = 0.0;
+	scanf("%", &gramm);
+	scanf("%d", &cm);
+	BMI = (gramm / 1000) / ((cm / 100) * (cm / 100));
+	printf("Der BMI liegt bei: %d", BMI);
+	return 0;
+}
+
+------------------------------------------------------
+#include <stdio.h>
+int main()
+{
+	float gewicht = 0.0, bmi = 0.0;
+	float groesse = 0.0f;
+	scanf("%f", &gewicht);
+	scanf("%f", &groesse);
+	bmi = ((gewicht /1000) / ((groesse / 100) * (groesse /100)));
+	printf("Der BMI liegt bei: %.2f!", bmi);
+	return 0;
+}
+---------------------------------------------------------
+
+#include <stdio.h>
+#include <math.h>
+int main()
+{
+	int d,m,y,w;
+	scanf("%i", &d);
+	scanf("%i", &m);
+	scanf("%i", &y);
+	if (m < 3) {
+		y = y-1;
+	}
+	w = ((d + (int)(2.6 * ((m + 9) % 12 + 1) - 0.2) + y % 100 + (int)(y % 100 / 4) + (int)(y / 400) - 2 * (int)(y / 100) - 1) % 7 + 7) % 7 + 1;
+	printf("Wochentagszahl fuer den %i.%i.%i: %i", d,m,y,w);
+	return 0;
+}
+-----------------------------------------------------------
+
+#include <stdio.h>
+int main()
+{
+	float gewicht = 0.0f, groesse = 0.0f, bmi = 0.0f;
+	scanf("%f", &gewicht);
+	scanf("%f", &groesse);
+	bmi = ((gewicht / 1000) / ((groesse / 100) * (groesse / 100)));
+	if (bmi < 18.4) {
+		printf("Untergewicht %.1f", bmi);
+	}
+	else {
+		if (bmi < 24.9) {
+			printf("Normalgewicht %.1f", bmi);
+		}
+		else {
+			printf("Uebergewicht %.1f", bmi);
+		}
+	}
+	return 0;
+}
+
+------------------------------------------------------------
+
+#include <stdio.h>
+int main()
+{
+	float w = 0.0f, r = 0.0f,v = 0.0, phi = 0.8f, a = 0.0f, m = 0.0f, e = 0.0f;
+	char geschlecht;
+	scanf("%c", &geschlecht);
+	
+	scanf("%f", &m);
+	scanf("%f", &v);
+	scanf("%f", &e);
+
+	if (geschlecht == 'm') {
+		r = 0.7f;
+	}
+	else {
+		if (geschlecht == 'w') {
+			r = 0.6f;
+		}
+		else {
+			r = 0.8f;
+		}
+	}
+	e *= 0.01;
+	a = v * e * phi;
+	w = (a / (m * r));
+	printf("%.2f Promille", w);
+	return 0;
+}
+----------------------------------------------------------------
+
+#include <stdio.h>
+#define SPITZE 1
+#define GUT 2
+#define BEFRIEDIGEND 3
+#define AUSREICHEND 4
+#define DURCHGEFALLEN 5
+#define JA 1
+#define NEIN 0
+
+int main(void) {
+    unsigned int note, bestanden;
+    printf("\nGeben Sie bitte eine Note (1-5) ein: ");
+    scanf("%u", &note);
+    switch (note) {
+    case SPITZE:
+    case GUT:
+    case BEFRIEDIGEND:
+    case AUSREICHEND:
+         {
+        bestanden = JA;
+        break;
+            }
+    default:
+         {
+        bestanden = NEIN;
+        break;
+         }
+    }
+    bestanden ? printf("\nOK!,") : printf("\nNICHT bestanden");
+    return 0;
+}

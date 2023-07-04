@@ -1,0 +1,1 @@
+--- Put your textures here. But DO NOT replace the texture.CFG in this folder -- 
