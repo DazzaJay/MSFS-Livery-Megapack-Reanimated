@@ -1,4 +1,4 @@
-# MSFS2020-livery-megapack Reanimated
+# MSFS 2020 Livery Megapack Reanimated
 Livery Megapack was abandoned in 2021, and we're going to repair it. 
 Since it was abandoned, Sim Update 5 came out and broke a lot of the liveries, as the way they handle fallback directories changed. 
 So, we're going to repair them all and re release them for free.
