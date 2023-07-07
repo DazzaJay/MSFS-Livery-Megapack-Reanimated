@@ -14,6 +14,17 @@ The correct fallbacks are listed here: https://docs.google.com/document/d/1V2k6c
 
      - <sub>Some of the 787 Liveries were found to have "Pink Wings" during testing. (QANTAS for example) This seems to be caused by missing references in the layout.json file</sub>
 
+     - <sub>Planes WITHOUT this bug (As almost ALL planes need fixing) are: Air Canada, Air Canada Ice Blue, Etihad, Gulf Air, Korean Air, Korean Air 50th, Qantas100, Thai Airways.</sub>
+
+     - <sub>For Example, QANTAS was missing the following:</sub>
+```
+    {
+      "path": "SimObjects/Airplanes/Asobo_B787_10-qantas/TEXTURE.Qantas/787_10_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132437052000000000
+    },
+```
+
 - [ ] **3. Coming Soon: Remove all fixed tail numbers, make sure Tail Numbers are user configurable.**
 
      - <sub>Some planes have fixed, painted on registry numbers that cannot be changed by the user, and can also cause doubling up if the user tries to change the registry. These should be removed from the livery and simply set the default registry number in the aircraft.cfg file instead.</sub>
