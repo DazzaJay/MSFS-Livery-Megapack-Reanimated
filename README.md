@@ -1,3 +1,5 @@
+![Livery Megapack Reanimated Header Image.](https://raw.githubusercontent.com/DazzaJay/MSFS-Livery-Megapack-Reanimated/main/_Development%20Files/Pack%20Logos/LMPR_Head2.png)
+
 # MSFS 2020 Livery Megapack Reanimated
 The original livery megapack was abandoned in 2021, So we're bringing the original, free megapack, back from the dead!
 
