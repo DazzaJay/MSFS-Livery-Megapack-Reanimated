@@ -37,19 +37,23 @@ The correct fallbacks are listed here: https://docs.google.com/document/d/1V2k6c
 
      - <sub>Allow all liveries to appear as parked planes / ai aircraft by enabling "isTraffic" in each aircraft.cfg, and give each livery a different (but correct) registry and callsign for the traffic version.</sub>
 
-- [ ] **6. Coming Soon: Uniformed Thumbnails.**
+- [ ] **6. Coming Soon: Optimise all DDS files to reduce overall package size.**
+
+     - <sub>look into using a tool like DDSopt to optimize all dds files. https://www.nexusmods.com/skyrim/mods/5755/?tab=description</sub>
+
+- [ ] **7. Coming Soon: Uniformed Thumbnails.**
 
      - <sub>The default thumbnails, taken from the front right corner of the plane make it hard to see which livery you're loading, so we're either going to replace them all with the logo of the livery carrier, or a photo of the vertical stabiliser, or some other style that will make it easier for people to find the livery they want.</sub>
 
-- [ ] **7. Coming Soon: Other Fixes if necessary.**
+- [ ] **8. Coming Soon: Other Fixes if necessary.**
 
      - <sub>If other issues arise during the above points, they should be addressed here.</sub>
 
-- [ ] **8. Coming Soon: Open the livery pack to everyone for new livery submissions!**
+- [ ] **9. Coming Soon: Open the livery pack to everyone for new livery submissions!**
 
      - <sub>Not sure how we would do this yet? Maybe a HTML form on PotholeStudios that allows the upload of zip files, which would be tested before being added to this pack? More investigation is needed.</sub>
 
-- [ ] **9. Coming Soon: Livery Requests**
+- [ ] **10. Coming Soon: Livery Requests**
 
      - <sub>This might happen way down the line if one of us learns how to make liveries correctly in blender, rather than using the old inferior raster/DDS methods.</sub>
 
