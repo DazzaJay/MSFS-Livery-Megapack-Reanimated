@@ -1,0 +1,89 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/aircraft.cfg",
+      "size": 12319,
+      "date": 132361710260000000
+    },
+	{
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/MODEL.TRANSPORTATOES/model.cfg",
+      "size": 12319,
+      "date": 132361710260000000
+    },
+    {
+     "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_LIVERYCOLOR_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_TAILLANDING_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/C172SP_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/texture.CFG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/PANEL.TRANSPORTATOES/panel.cfg",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/PANEL.TRANSPORTATOES/panel.xml",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/thumbnail.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C172sp_AS1000_TRANSPORTATOES/TEXTURE.TRANSPORTATOES/thumbnail_small.JPG",
+      "size": 1,
+      "date": 132400215225729553
+    }
+  ]
+}
