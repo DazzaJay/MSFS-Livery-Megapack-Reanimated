@@ -10,7 +10,7 @@ So, we're going to repair them all and re-release them for free, Because we beli
      - <sub>Pink textures are caused by missing or incorrect fallbacks in the texture.cfg file for each livery.
 The correct fallbacks are listed here: https://docs.google.com/document/d/1V2k6cFaXAhKOHwaALZ2LaSbiRx8W_vwgGW4mM9CX6po/edit?usp=sharing</sub>
 
-- [ ] :arrow_right: **2. IN PROGRESS: Fix the Pink Wings on the 787.**
+- [x] **2. DONE: Fix the Pink Wings on the 787.**
 
      - <sub>Some of the 787 Liveries were found to have "Pink Wings" during testing. (QANTAS for example) This seems to be caused by missing references in the layout.json file</sub>
 
@@ -25,7 +25,7 @@ The correct fallbacks are listed here: https://docs.google.com/document/d/1V2k6c
     },
 ```
 
-- [ ] **3. Coming Soon: Remove all fixed tail numbers, make sure Tail Numbers are user configurable.**
+- [ ] :arrow_right: **3. IN PROGRESS: Remove all fixed tail numbers, make sure Tail Numbers are user configurable.**
 
      - <sub>Some planes have fixed, painted on registry numbers that cannot be changed by the user, and can also cause doubling up if the user tries to change the registry. These should be removed from the livery and simply set the default registry number in the aircraft.cfg file instead.</sub>
 
