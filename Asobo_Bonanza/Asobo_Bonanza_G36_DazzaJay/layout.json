@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/aircraft.cfg",
+      "size": 3096,
+      "date": 132361708930000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/BONANZA_AIRFRAME_BRANDING_DECALS_ALBD.TIF.DDS",
+      "size": 1398256,
+      "date": 132400237713366690
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/BONANZA_AIRFRAME_BRANDING_DECALS_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132400237713326685
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/BONANZA_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400238355205515
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/BONANZA_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400238355155517
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/BONANZA_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132400238225039852
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/BONANZA_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400238225019851
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/BONANZA_AIRFRAME_LOD6_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132400238225039852
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/BONANZA_AIRFRAME_LOD6_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400238225019851
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/texture.CFG",
+      "size": 207,
+      "date": 132207049640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/thumbnail.JPG",
+      "size": 254927,
+      "date": 132200106730000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Bonanza_G36_DAZZAJAY/TEXTURE.DAZZAJAY/thumbnail_small.JPG",
+      "size": 35414,
+      "date": 132270120840000000
+    }
+  ]
+}
