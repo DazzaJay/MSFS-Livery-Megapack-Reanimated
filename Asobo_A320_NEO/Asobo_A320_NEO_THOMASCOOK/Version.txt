@@ -1,8 +1,0 @@
-Thomas Cook
-By Miggle#9207
-
-Changelog:
-
-1.2 - Upgraded to 8K Resolution
-1.1 - Compatible with Patch 5 of MSFS
-1.0 - Release

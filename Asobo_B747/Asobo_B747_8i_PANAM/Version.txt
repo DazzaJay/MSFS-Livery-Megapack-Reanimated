@@ -1,7 +1,0 @@
-Pan Am World Airways
-By Miggle#9207
-
-Changelog:
-
-1.1 - Fixed Thumbnails
-1.0 - Initial Release
