@@ -27,11 +27,11 @@ The correct fallbacks are listed here: https://docs.google.com/document/d/1V2k6c
     },
 ```
 
-- [ ] :arrow_right: **3. IN PROGRESS: Split the pack into 3 parts. Standard, Deluxe, Premium Deluxe.**
+- [x] **3. DONE! (Will take effect NEXT release): Split the pack into 3 parts. Standard, Deluxe, Premium Deluxe.**
 
      - <sub>To reduce overall download and installation size for standard edition players, split the pack into 3 downloads, Standard, which has liveries only for the standard edition. Then have two extras packs, "Deluxe" and "Premium Deluxe" for players on those editions of Flight Sim.
 
-- [ ] **4. Coming Soon: Remove all fixed tail numbers, make sure Tail Numbers are user configurable.**
+- [ ] :arrow_right: **4. IN PROGRESS: Remove all fixed tail numbers, make sure Tail Numbers are user configurable.**
 
      - <sub>Some planes have fixed, painted on registry numbers that cannot be changed by the user, and can also cause doubling up if the user tries to change the registry. These should be removed from the livery and simply set the default registry number in the aircraft.cfg file instead.</sub>
 
