@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Asobo_Cessna_208B_Grand_Caravan_EX_TRANSPORTATOES_TEXTURE.TRANSPORTATOES",
+  "manufacturer": "<<MANUFACTURER>>",
+  "creator": "<<CREATOR>>", 
+  "package_version": "0.1.0", 
+  "minimum_game_version": "1.7.12", 
+  "release_notes": { 
+     "neutral": { 
+       "LastUpdate": "",
+       "OlderHistory": "" 
+    }
+  }
+}
