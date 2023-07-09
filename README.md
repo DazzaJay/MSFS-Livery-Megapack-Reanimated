@@ -33,7 +33,7 @@ The correct fallbacks are listed here: https://docs.google.com/document/d/1V2k6c
 
 - [ ] :arrow_right: **4. IN PROGRESS: Uniformed Thumbnails.**
 
-     - <sub>The default thumbnails, taken from the front right corner of the plane make it hard to see which livery you're loading, so we're either going to replace them all with the logo of the livery carrier, or a photo of the vertical stabiliser, or some other style that will make it easier for people to find the livery they want.</sub>
+     - <sub>The default thumbnails, taken from the front right corner of the plane make it hard to see which livery you're loading, so we're going to replace it with flat icon style graphics, that includes tail art and carrier name depending on the livery (Example coming soon)</sub>
 
 - [ ] **5. Coming Soon: Remove all fixed tail numbers, make sure Tail Numbers are user configurable.**
 
