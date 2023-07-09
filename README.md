@@ -31,25 +31,25 @@ The correct fallbacks are listed here: https://docs.google.com/document/d/1V2k6c
 
      - <sub>To reduce overall download and installation size for standard edition players, split the pack into 3 downloads, Standard, which has liveries only for the standard edition. Then have two extras packs, "Deluxe" and "Premium Deluxe" for players on those editions of Flight Sim.
 
-- [ ] :arrow_right: **4. IN PROGRESS: Remove all fixed tail numbers, make sure Tail Numbers are user configurable.**
+- [ ] :arrow_right: **4. IN PROGRESS: Uniformed Thumbnails.**
+
+     - <sub>The default thumbnails, taken from the front right corner of the plane make it hard to see which livery you're loading, so we're either going to replace them all with the logo of the livery carrier, or a photo of the vertical stabiliser, or some other style that will make it easier for people to find the livery they want.</sub>
+
+- [ ] **5. Coming Soon: Remove all fixed tail numbers, make sure Tail Numbers are user configurable.**
 
      - <sub>Some planes have fixed, painted on registry numbers that cannot be changed by the user, and can also cause doubling up if the user tries to change the registry. These should be removed from the livery and simply set the default registry number in the aircraft.cfg file instead.</sub>
 
-- [ ] **5. Coming Soon: Add Float / Snow Ski variants of all applicable planes.**
+- [ ] **6. Coming Soon: Add Float / Snow Ski variants of all applicable planes.**
 
      - <sub>Why have one Cessna 172 when you can have many, all the same planes just with different landing gear. why shouldn't the liveries work on all of them.</sub>
 
-- [ ] **6. Coming Soon: Add Air Traffic to all liveries in the aircraft.cfg for each livery.**
+- [ ] **7. Coming Soon: Add Air Traffic to all liveries in the aircraft.cfg for each livery.**
 
      - <sub>Allow all liveries to appear as parked planes / ai aircraft by enabling "isTraffic" in each aircraft.cfg, and give each livery a different (but correct) registry and callsign for the traffic version.</sub>
 
-- [ ] **7. Coming Soon: Optimise all DDS files to reduce overall package size.**
+- [ ] **8. Coming Soon: Optimise all DDS files to reduce overall package size.**
 
      - <sub>look into using a tool like DDSopt to optimize all dds files. https://www.nexusmods.com/skyrim/mods/5755/?tab=description</sub>
-
-- [ ] **8. Coming Soon: Uniformed Thumbnails.**
-
-     - <sub>The default thumbnails, taken from the front right corner of the plane make it hard to see which livery you're loading, so we're either going to replace them all with the logo of the livery carrier, or a photo of the vertical stabiliser, or some other style that will make it easier for people to find the livery they want.</sub>
 
 - [ ] **9. Coming Soon: Other Fixes if necessary.**
 
